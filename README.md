@@ -1,5 +1,4 @@
 # calculus-unit1
-# MATH 1211 – Unit 1: Function Classification and Graph Analysis
 
 # Overview
 This repository contains my Unit 1 assignment for **MATH 1211 – Calculus**. The purpose of this project was to analyze and classify different types of mathematical functions by interpreting their graphs and applying fundamental calculus concepts.
